@@ -1,0 +1,97 @@
+<!doctype HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Monica's Personal Blog </title>
+        
+        
+        <style>
+            
+            body{
+                background-color: coral;
+                font-family:sans-serif
+            }  
+            
+            #container{
+                background-color: #eaaaaa;padding: 10px;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                border: 100px dashed green 
+                    
+            } 
+            
+            h1{
+               font-size: 60px center;
+                text-align: center
+                text-decoration-color: chartreuse;
+                margin 0;
+                text-decoration-style: wavy;
+        
+             
+                
+                
+                
+                }  
+            
+        </style>
+        <style>
+        
+           {image-orientation:
+                    display: block;
+    margin-left: auto;
+    margin-right: auto;
+            
+        </style>
+        
+      
+        
+        
+        
+        
+    </head>
+    
+    <body>
+        <div id="container">
+        <header>
+            <h1>Moni Blog!</h1>
+            <h2> A blog by Monica De Loera</h2>
+            <h> Learn everything about everything...about me</h>
+        </header>
+        <nav>
+            <ul>
+                <li>childhood</li>
+                <li>funny stories</li>
+                <li>traumatic experiences</li>
+                <li>dreams and hopes</li>
+                <li> contact</li>
+            </ul>
+        </nav>
+        
+        <article>
+            <h2>omg look at this cute dog</h2>
+            <img src="https://placedog.net/300/300" alt="picture of random doggo">
+            <p> hiiiiii how are you! Welcome to this fake article. I mean...I guess it's not really fake it is very much real. I guess it's content is kind of no where but at the same time...this is a personal blog and i am personally blogging nonsense so I guess it is really real. Anywho yeah I didn't wanna use the lorem ipsum. It kinda creeps me out. Not like it scares me per say but something about it looking so real from far away spooks me. Like when people speak in giberish but it sounds like english until you pay close attention. I actually didnt know about ipsum whatever until I was watching a music video back in the day. I saw all the giberish and thought it was a super obscure deep message in latin or something up it was just giberish! I was so disturbered. Like I think this is good giberish. Something about premade gibberish I don't know I just don't like one bit!
+            </p>
+            
+        </article>
+        
+        <article>
+            <h2>Hiiiiii here's another article</h2>
+            <p>I will be creating my own form of giberish. skjd sdhf sdhfja modsjhfjd msakfjias asjfjkew wejuroew newirouewi weiourewi iweurewi nsdkf ajsd saihdf asdh shjkf. Somehow I feel like this gibberish has more intergrity than lorem whatever. Like sdjkf skdjhf skjfh LOOKS like biggerish. It isn't acting any other way! It doesnt lie to you. It is happily gibberish. OPENLY giberish. You are not fooled that it is gibberish. LOREM FHJFD IS SO DUMBBBBBBBBBB. 
+            </p>
+        
+        </article>
+    
+    
+    </body>
+
+
+
+
+
+
+
+
+
+</html>
